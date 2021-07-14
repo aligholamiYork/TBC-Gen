@@ -1,11 +1,11 @@
 # TBC-Gen
 
- TBC-Gen was written by: Ali Gholami                                           |
-                         PhD student                                           |
-                         Department of Mechanical Engineering                  |
-                         Lassonde School of Engineering, York University       |
-                         Canada                                                |
-                         E-mail : alig90@yorku.ca || gholami.ali90@gmail.com   |
+ %TBC-Gen was written by: Ali Gholami                                           |
+ %                        PhD student                                           |
+ %                        Department of Mechanical Engineering                  |
+ %                        Lassonde School of Engineering, York University       |
+ %                        Canada                                                |
+ %                        E-mail : alig90@yorku.ca || gholami.ali90@gmail.com   |
 
 
 This app can generate yarn paths for Tubular Braided Composites with different yarn patterns (Diamond, Regular, and Hercules) and geometrical variables.
