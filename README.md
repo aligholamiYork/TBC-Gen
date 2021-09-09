@@ -20,6 +20,6 @@ Five geometrical variables should be defined for generating the yarn path.
 -------------------------------------
 - After inputting the variables, you can choose to plot one sample of clockwise and/or counterclockwise yarn path
 - The complete set of yarn will be plotted in a separate window
-- By choosing "Write to .txt file", three txt files will be written: one clockwise yarn path, one counterclockwise yarn path and one property file, which involves #The properties of the generated yarn path.
+- By choosing "Write to .txt file", five txt files will be written: two clockwise yarn path, two counterclockwise yarn path and one property file, which involves #The properties of the generated yarn path.
 - The properties file can be loaded by choosing "Load Properties File", and the yarn paths can be plotted.
 - The written CW and CCW files can be loaded again by choosing the "Load" button.
